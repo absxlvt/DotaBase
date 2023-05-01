@@ -163,7 +163,13 @@ footer p {
 .content__text {
     font-size: 20px;
     list-style: 20px;
+    padding: 25px;
 
+
+}
+.card-fix{
+  justify-content: space-between;
+  display: flex;
 }
 .card {
     display: inline-block;
